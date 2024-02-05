@@ -3,7 +3,7 @@
 ## Description :-
 This is a type of quiz app which will ask questions regarding multiplication and the user will answer the questions and there wil be a score counting feature.
 
-### Visit the Live Website  :--:  [Multiplication App](     )
+### Visit the Live Website  :--:  [Multiplication App](https://devtripathy.github.io/Multiplication-Web-App/)
 
 ---
 
